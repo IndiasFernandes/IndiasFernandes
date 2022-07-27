@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1>Hi, I'm Daniel! </h1><h2><a href="https://github.com/indiasfernandes">Programmer</a>, <a href="https://www.linkedin.com/in/danielfernandes/">Algorithmic Trader</a>, <a href="#">Musical Producer</a></h2></br>
 
-<!--
-**IndiasFernandes/IndiasFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently developing an <b>Algorithmic Trading Bot for Binance Futures</b>
+- 🌱 I’m currently learning <b>Python/Data Science and Machine Learning</b>
+- 👯 I’m looking to collaborate with <b>Projects as a FullStack Programmer</b>
 
-Here are some ideas to get you started:
+</br><h2>👨‍💻 Software Development Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](#)
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](#)
+  - [JWipe (Disk Wiping Utility)](#)
+  - [Active Directory Bulk User Creation](#)
+  - [FIM (File Integrity Monitor)](#)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](#)
+
+</br><h2>🏆 Certifications</h2>
+
+- [How to get into Cybersecurity Starting From Zero](#)
+- [A Day in the Life of a Cybersecurity Anayst](#)
+- [How to Create a KeyLogger (C#)](#)
+- [Ransomware Demonstration (C#)](#)
+- [Is WGU Legit?](#)
+
+</br><h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/indiasfernandes
+[instagram]: https://www.instagram.com/indiasfernandes/
+[linkedin]: https://linkedin.com/in/danielfernandes
