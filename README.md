@@ -14,7 +14,7 @@
   - [Active Directory Bulk User Creation](#)
   - [FIM (File Integrity Monitor)](#)
 - <b>Python</b>
-  - [Interactive Mapping (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
+  - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
 
 </br><h2>🏆 Certifications</h2>
 
