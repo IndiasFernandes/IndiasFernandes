@@ -10,7 +10,7 @@
 
 </br><h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="IndiasFernandes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: [https://linkedin.com/danielfernandes](https://www.linkedin.com/danielfernandes/)
 
@@ -31,7 +31,7 @@
 - [How to Create a KeyLogger (C#)](#)
 - [Ransomware Demonstration (C#)](#)
 - [Is WGU Legit?](#)
-//-->
+
 
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -39,6 +39,6 @@
 
 [twitter]: https://twitter.com/indiasfernandes
 [instagram]: https://www.instagram.com/indiasfernandes/
-
+//-->
 
 
