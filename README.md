@@ -31,7 +31,7 @@
 - [How to Create a KeyLogger (C#)](#)
 - [Ransomware Demonstration (C#)](#)
 - [Is WGU Legit?](#)
-
+//-->
 
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -39,6 +39,6 @@
 
 [twitter]: https://twitter.com/indiasfernandes
 [instagram]: https://www.instagram.com/indiasfernandes/
-//-->
+
 
 
