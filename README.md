@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with <b>Projects as a FullStack Programmer</b>
 
 </br><h2>👨‍💻 Software Development Projects:</h2>
-
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](#)
 - <b>PowerShell</b>
@@ -32,4 +32,5 @@
 
 [twitter]: https://twitter.com/indiasfernandes
 [instagram]: https://www.instagram.com/indiasfernandes/
-[linkedin]: https://linkedin.com/in/danielfernandes
+//-->
+[linkedin]: [https://linkedin.com/in/danielfernandes](https://www.linkedin.com/in/danielfernandes/)
