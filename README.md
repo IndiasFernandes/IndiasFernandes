@@ -7,6 +7,8 @@
 </br><h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
   - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
+</br>
+[linkedin]: [https://linkedin.com/in/danielfernandes](https://www.linkedin.com/in/danielfernandes/)
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -36,4 +38,4 @@
 [instagram]: https://www.instagram.com/indiasfernandes/
 //-->
 
-[linkedin]: [https://linkedin.com/in/danielfernandes](https://www.linkedin.com/in/danielfernandes/)
+
