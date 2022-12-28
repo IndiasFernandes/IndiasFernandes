@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! </h1><h2><a href="https://github.com/indiasfernandes">Programmer</a>, <a href="https://www.linkedin.com/in/danielfernandes/">Algorithmic Trader</a>, <a href="#">Musical Producer</a></h2></br>
+<h1>Hi, I'm Daniel! </h1><h2><a href="#">Programmer</a>, <a href="#">Algorithmic Trader</a>, <a href="#">Musical Producer</a></h2></br>
 
 - 🔭 I’m currently developing an <b>Algorithmic Trading Bot for Binance Futures</b>
 - 🌱 I’m currently learning <b>Python/Data Science and Machine Learning</b>
