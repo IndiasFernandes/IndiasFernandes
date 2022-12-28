@@ -5,6 +5,9 @@
 - 👯 I’m looking to collaborate with <b>Projects as a FullStack Programmer</b>
 
 </br><h2>👨‍💻 Software Development Projects:</h2>
+- <b>Python</b>
+  - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
+
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](#)
@@ -13,8 +16,7 @@
   - [JWipe (Disk Wiping Utility)](#)
   - [Active Directory Bulk User Creation](#)
   - [FIM (File Integrity Monitor)](#)
-- <b>Python</b>
-  - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
+
 
 </br><h2>🏆 Certifications</h2>
 
@@ -33,4 +35,5 @@
 [twitter]: https://twitter.com/indiasfernandes
 [instagram]: https://www.instagram.com/indiasfernandes/
 //-->
+
 [linkedin]: [https://linkedin.com/in/danielfernandes](https://www.linkedin.com/in/danielfernandes/)
