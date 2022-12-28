@@ -12,7 +12,7 @@
 
 [<img align="left" alt="IndiasFernandes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/danielfernandes/
+[linkedin]: https://www.linkedin.com/indiasfernandes/
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
