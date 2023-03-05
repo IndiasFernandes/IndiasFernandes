@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently developing an <b>Algorithmic Trading Bot for Binance Futures</b>
 - 🌱 I’m currently learning <b>Python/Data Science and Machine Learning</b>
-- 👯 I’m looking to collaborate with <b>New Projects and Clients</b><a href="https://www.fiverr.com/indias" style="color:#008000">find me through Fiverr</a>
+- 👯 I’m looking to collaborate with <b>New Projects and Clients</b> - <a href="https://www.fiverr.com/indias" style="color:#008000">find me through Fiverr!</a>
 
 </br><h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
