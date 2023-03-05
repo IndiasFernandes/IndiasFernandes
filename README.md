@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently developing an <b>Algorithmic Trading Bot for Binance Futures</b>
 - 🌱 I’m currently learning <b>Python/Data Science and Machine Learning</b>
-- 👯 I’m looking to collaborate with <b>New Projects and Clients</b>
+- 👯 I’m looking to collaborate with <b>New Projects and Clients</b> <p style="color:#008000"><a href="https://www.fiverr.com/indias">find me through Fiverr</a></p>
 
 </br><h2>👨‍💻 Software Development Projects:</h2>
 - <b>Python</b>
@@ -11,8 +11,10 @@
 </br><h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="IndiasFernandes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
 
 [linkedin]: https://www.linkedin.com/indiasfernandes/
+[fiverr]: https://www.fiverr.com/indias
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -35,11 +37,11 @@
 
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/indiasfernandes
-[fiverr]: https://www.fiverr.com/indias
+
 [instagram]: https://www.instagram.com/indiasfernandes/
 //-->
 
