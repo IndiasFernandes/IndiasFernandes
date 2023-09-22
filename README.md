@@ -16,8 +16,3 @@
 
 [linkedin]: https://www.linkedin.com/in/indiasfernandes/
 [fiverr]: https://www.fiverr.com/indias
-
-</br><h2>💸 Donations</h2>
-I welcome support for my projects. If you find them valuable, consider making a donation:
-- **Bitcoin:** `3FdFK2Qowj9VSGomsmQZrXqs6YYKL9sfeY`
-- **USDT (Ethereum):** `0x316fcde48ebdfad89e94346eced4c86a91379c0e`
