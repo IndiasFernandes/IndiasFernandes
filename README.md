@@ -5,8 +5,9 @@
 - 👯 I’m open to collaborating on **new projects and engaging with clients** - <a href="https://www.fiverr.com/indias" style="color:#008000">find me through Fiverr!</a> or on <a href="https://www.upwork.com/freelancers/danielf26" style="color:#008000">Upwork</a>.
 
 </br><h2>👨‍💻 Software Development Projects:</h2>
-- **Python**
+- **HTML**
   - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
+- **Python**
   - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)](https://github.com/your-github-username/arbitrage-bot)
 
 </br><h2> 🤳 Connect with me:</h2>
