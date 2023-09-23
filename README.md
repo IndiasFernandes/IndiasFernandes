@@ -8,7 +8,7 @@
 - **HTML**
   - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
 - **Python**
-  - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)](https://github.com/your-github-username/arbitrage-bot)
+  - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)](https://github.com/IndiasFernandes/triple_arbitrage_kraken)
 
 </br><h2> 🤳 Connect with me:</h2>
 
