@@ -13,8 +13,8 @@
 
 </br><h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="IndiasFernandes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="IndiasFernandes | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="IndiasFernandes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:#0077B5;" />][linkedin]
+[<img align="left" alt="IndiasFernandes | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" style="color:#1DBF73;" />][fiverr]
 
 [linkedin]: https://www.linkedin.com/in/indiasfernandes/
 [fiverr]: https://www.fiverr.com/indias
