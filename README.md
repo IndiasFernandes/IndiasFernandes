@@ -9,6 +9,7 @@
   - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
 - **Python**
   - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)](https://github.com/IndiasFernandes/triple_arbitrage_kraken)
+  - [Bollinger Bands Telegram Screener (Crypto/Trading)](https://github.com/IndiasFernandes/bollinger_bands_binance_screener)
 
 </br><h2> 🤳 Connect with me:</h2>
 
