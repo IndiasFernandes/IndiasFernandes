@@ -14,8 +14,11 @@
 </br><h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/indiasfernandes/">
-    <img align="left" alt="IndiasFernandes | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="color:#0077B5;" />
+    <img align="left" alt="IndiasFernandes | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="color:#FFFFFF;" />
 </a>
 <a href="https://www.fiverr.com/indias">
-    <img align="left" alt="IndiasFernandes | Fiverr" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fiverr.svg" style="color:#1DBF73;" />
+    <img align="left" alt="IndiasFernandes | Fiverr" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fiverr.svg" style="color:#FFFFFF;" />
+</a>
+<a href="https://www.upwork.com/freelancers/danielf26">
+    <img align="left" alt="IndiasFernandes | Upwork" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/upwork.svg" style="color:#FFFFFF;" />
 </a>
