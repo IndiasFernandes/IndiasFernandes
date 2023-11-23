@@ -13,12 +13,6 @@
 
 </br><h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/indiasfernandes/">
-    <img align="left" alt="IndiasFernandes | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="color:#FFFFFF;" />
-</a>
-<a href="https://www.fiverr.com/indias">
-    <img align="left" alt="IndiasFernandes | Fiverr" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fiverr.svg" style="color:#FFFFFF;" />
-</a>
-<a href="https://www.upwork.com/freelancers/danielf26">
-    <img align="left" alt="IndiasFernandes | Upwork" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/upwork.svg" style="color:#FFFFFF;" />
-</a>
+- [LinkedIn](https://www.linkedin.com/in/indiasfernandes/) - Find out more about my professional journey. Spoiler: There's coffee involved!
+- [Fiverr](https://www.fiverr.com/indias) - Need a hand with a project? Check out my gigs – they're a steal!
+- [Upwork](https://www.upwork.com/freelancers/danielf26) - Let’s collaborate on Upwork. It’s where the magic happens!
