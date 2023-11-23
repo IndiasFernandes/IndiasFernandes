@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! </h1><h2><a href="#">Programmer</a>, <a href="#">Algorithmic Trader</a>, <a href="#">Musical Producer</a></h2></br>
+<h1>Hi, I'm Daniel Fernandes! </h1><h2><a href="#">Programmer</a>, <a href="#">Algorithmic Trader</a>, <a href="#">Musical Producer</a></h2></br>
 
 - 🔭 I’m currently developing an **Algorithmic Trading Bot for Binance Futures** and a **Triple Arbitrage Bot for Kraken Exchange**.
 - 🌱 I’m continually honing my skills in **Python**, **Data Science**, and **Machine Learning**.
