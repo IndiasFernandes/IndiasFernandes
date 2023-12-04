@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel Fernandes! </h1><h2><a href="#">Programmer</a> and <a href="#">Musical Producer</a></h2></br>
+<h1>Hi, I'm Daniel Fernandes! </h1><h2><a href="#">Programmer</a> and <a href="#">Musical Producer</a></h2><br>
 
 <h2>👋 About me:</h2>
 - 🚀 With more than **10 years learning IT** and **3 years of experience as a freelancer Programmer** developing mostly projects for diverse markets such as **crypto, commodities, and stocks**, I bring a unique blend of programming and strategic skills.
