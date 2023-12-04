@@ -19,10 +19,10 @@
 - **HTML**
   - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
 - **Python**
-  - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)]([https://github.com/IndiasFernandes/TripleArbitrageKraken))
-  - [Futures Hedge Trading Bot for Binance (Crypto/Trading)]([https://github.com/IndiasFernandes/StatisticHedgeBot))
+  - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)]([https://github.com/IndiasFernandes/TripleArbitrageKraken)
+  - [Futures Hedge Trading Bot for Binance (Crypto/Trading)]([https://github.com/IndiasFernandes/StatisticHedgeBot)
 - **Flask**
-  - [Bollinger Bands Telegram Screener (Crypto/Trading)]([https://github.com/IndiasFernandes/BollingerBandsBinanceScreener))
+  - [Bollinger Bands Telegram Screener (Crypto/Trading)]([https://github.com/IndiasFernandes/BollingerBandsBinanceScreener)
 
 </br><h2> 🤳 Connect with me:</h2>
 
