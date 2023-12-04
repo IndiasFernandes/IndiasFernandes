@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel Fernandes! </h1><h2><a href="#">Programmer</a>, <a href="#">Algorithmic Trader</a>, <a href="#">Musical Producer</a></h2></br>
 
-### About Me
+</br><h2>👋 About me:</h2>
 - 🚀 With **3 years of experience** in developing projects for diverse markets such as **crypto, commodities, and stocks**, I bring a unique blend of programming and strategic skills.
 - 💻 My technical expertise spans across **HTML, JavaScript, Python**, and **databases** like MySQL, MongoDB, and PostgreSQL. I have a strong foundation in **Angular** and **React**.
 - 🤖 Passionate about tackling **complex challenges**, I excel at creating innovative systems that automate and streamline processes. My current focus includes exploring **artificial intelligence (AI)** to enhance programming efficiency and quality.
@@ -19,9 +19,10 @@
 - **HTML**
   - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
 - **Python**
-  - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)]([https://github.com/IndiasFernandes/triple_arbitrage_kraken](https://github.com/IndiasFernandes/TripleArbitrageKraken))
-  - [Bollinger Bands Telegram Screener (Crypto/Trading)]([https://github.com/IndiasFernandes/bollinger_bands_binance_screener](https://github.com/IndiasFernandes/BollingerBandsBinanceScreener))
-  - [Futures Hedge Trading Bot for Binance (Crypto/Trading)]([https://github.com/IndiasFernandes/bollinger_bands_binance_screener](https://github.com/IndiasFernandes/StatisticHedgeBot))
+  - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)]([https://github.com/IndiasFernandes/TripleArbitrageKraken))
+  - [Futures Hedge Trading Bot for Binance (Crypto/Trading)]([https://github.com/IndiasFernandes/StatisticHedgeBot))
+- **Flask**
+  - [Bollinger Bands Telegram Screener (Crypto/Trading)]([https://github.com/IndiasFernandes/BollingerBandsBinanceScreener))
 
 </br><h2> 🤳 Connect with me:</h2>
 
