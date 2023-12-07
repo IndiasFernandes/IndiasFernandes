@@ -18,16 +18,17 @@
 
 </br><h2>👨‍💻 Software Development Projects:</h2>
 - **HTML**
-  - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping)
+  - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping) - An interactive map showcasing eco-communities in Portugal, utilizing web and geolocation technologies for enhanced user engagement.
 - **Python**
-  - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)](https://github.com/IndiasFernandes/TripleArbitrageKraken)
-  - [Futures Hedge Trading Bot for Binance (Crypto/Trading)](https://github.com/IndiasFernandes/StatisticHedgeBot)
+  - [Triple Arbitrage Bot for Kraken Exchange (Crypto/Trading)](https://github.com/IndiasFernandes/TripleArbitrageKraken) - A sophisticated trading bot designed for the Kraken Exchange, specializing in triple arbitrage strategies in the cryptocurrency market.
+  - [Futures Hedge Trading Bot for Binance (Crypto/Trading)](https://github.com/IndiasFernandes/StatisticHedgeBot) - A futures hedge trading bot that operates on the Binance platform, leveraging statistical methods for optimized crypto trading.
 - **Flask**
-  - [Bollinger Bands Telegram Screener (Crypto/Trading)](https://github.com/IndiasFernandes/BollingerBandsBinanceScreener)
+  - [Bollinger Bands Telegram Screener (Crypto/Trading)](https://github.com/IndiasFernandes/BollingerBandsBinanceScreener) - This tool uses Bollinger Bands to screen cryptocurrencies on Binance and sends alerts via a Telegram bot.
 - **Vue**
-  - [Offline Music Playlist (Vue)](https://github.com/IndiasFernandes/OfflineMusicPlaylist) - An app that integrates with Spotify, YouTube, and SoundCloud to fetch music.
+  - [Offline Music Playlist (Vue)](https://github.com/IndiasFernandes/OfflineMusicPlaylist) - A Vue.js-based application that integrates with Spotify, YouTube, and SoundCloud to fetch music for offline playlists.
 - **Javascript/Python**
-  - [Trading Journal (Javascript/Python)](https://github.com/IndiasFernandes/TradingJournal)
+  - [Trading Journal (Javascript/Python)](https://github.com/IndiasFernandes/TradingJournal) - A comprehensive trading journal tool built with JavaScript and Python, aiding traders in tracking and analyzing their trading activities and strategies.
+
 
 </br><h2> 🤳 Connect with me:</h2>
 
