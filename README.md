@@ -2,7 +2,7 @@
 <h2><a href="#">Programmer</a> and <a href="#">Musical Producer</a></h2>
 
 </br><h2>👋 About me:</h2>
-- 🚀 With more than **10 years learning IT** and **3 years of experience as a freelancer Programmer** developing mostly projects for diverse markets such as **crypto, commodities, and stocks**, I bring a unique blend of programming and strategic skills.
+- 🚀 With more than **10 years learning IT** and **4 years of experience as a freelancer Programmer** and **12 years of experience as a wWbdeveloper** developing mostly projects for diverse markets such as **crypto, commodities, and stocks**, I bring a unique blend of programming and strategic skills.
 - 💻 My technical expertise spans across **HTML, JavaScript, Python**, and **databases** like MySQL, MongoDB, and PostgreSQL. I have a strong foundation in **Angular** and **React**.
 - 🤖 Passionate about tackling **complex challenges**, I excel at creating innovative systems that automate and streamline processes. My current focus includes exploring **artificial intelligence (AI)** to enhance programming efficiency and quality.
 
@@ -24,6 +24,10 @@
   - [Futures Hedge Trading Bot for Binance (Crypto/Trading)](https://github.com/IndiasFernandes/StatisticHedgeBot)
 - **Flask**
   - [Bollinger Bands Telegram Screener (Crypto/Trading)](https://github.com/IndiasFernandes/BollingerBandsBinanceScreener)
+- **Vue**
+  - [Offline Music Playlist (Vue)](https://github.com/IndiasFernandes/OfflineMusicPlaylist) - An app that integrates with Spotify, YouTube, and SoundCloud to fetch music.
+- **Javascript/Python**
+  - [Trading Journal (Javascript/Python)](https://github.com/IndiasFernandes/TradingJournal)
 
 </br><h2> 🤳 Connect with me:</h2>
 
