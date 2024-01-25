@@ -20,7 +20,7 @@
 - **Javascript/Python**
   - [Trading Journal](https://github.com/IndiasFernandes/TradingJournal) - A comprehensive trading journal tool built with JavaScript and Python, aiding traders in tracking and analyzing their trading activities and strategies
 - **NodeJS/React**
-  - [Environmental Dashboard](https://github.com/IndiasFernandes/EnvironmentalDashboard) - EnvironmentDashboard is a full-stack application designed to display environmental data such as temperature and humidity, collected from various sensors and stored in an SQLite database. The backend is built with Node.js, and the frontend is developed using React with Material-UI for a user-friendly interface.
+  - [Environmental Dashboard](https://github.com/IndiasFernandes/EnvironmentalDash) - EnvironmentDashboard is a full-stack application designed to display environmental data such as temperature and humidity, collected from various sensors and stored in an SQLite database. The backend is built with Node.js, and the frontend is developed using React with Material-UI for a user-friendly interface.
 - **HTML**
   - [Portugal Eco-Communities Interactive Map (Web/Geolocation)](https://github.com/IndiasFernandes/Interactive-Mapping) - An interactive map showcasing eco-communities in Portugal, utilizing web and geolocation technologies for enhanced user engagement.
 - **Python**
