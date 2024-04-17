@@ -2,17 +2,17 @@
 <h2><a href="#">Software Engineer</a> and <a href="#">Creative Technologist</a></h2>
 
 ## 👋 About me:
-- 🚀 With more than **10 years learning IT** and **4 years of experience as a freelance Programmer**, I bring a unique blend of programming and strategic skills, including **12 years of experience as a Web Developer** across diverse markets like **crypto, commodities, and stocks**.
-- 💻 My technical expertise spans across **HTML, JavaScript, Python**, and databases like **MySQL, MongoDB, and PostgreSQL**, with a foundation in **React**, **NodeJS**.
+- 🚀 With more than **10 years learning IT** and **4 years of experience as a Programmer**, I bring a unique blend of programming and strategic skills, including **12 years of experience as a Web Developer** across diverse markets like **crypto, commodities, and stocks**.
+- 💻 My technical expertise focus mostly on **Python(Django, FastAPI, Flask), Machine Learning, Large Language Models (LLM), AI Integration, Data Analysis & Visualization** and also **HTML, JavaScript, CSS**, and databases like **MySQL, SQLite, MongoDB, and PostgreSQL**. I have the foundations to work with  with a foundation in **React**, **NodeJS**.
 - 🤖 Passionate about tackling **complex challenges**, I excel at creating innovative systems that automate and streamline processes. My current focus includes exploring **artificial intelligence (AI)** to enhance programming efficiency and quality.
 
 ## Open to Opportunities
 - 🌟 Actively seeking new opportunities to collaborate with teams, leveraging my programming expertise, managerial skills, and client relations experience in dynamic, innovative environments.
-- 🌱 Continually improving proficiency in **Front-End and Back-End languages** like NodeJS, React and Typescript, eagerly embracing new learning opportunities.
+- 🌱 Continually improving proficiency in **Front-End and Back-End languages**, mainly related to Python.
 
 ## Collaboration and Contact
 - 👯 Excited to engage in **collaborations and new projects**. If you're looking for a developer with a unique blend of technical and strategic acumen, I'd love to hear from you.
-- 📧 Contact me at [daniel.indias@gmail.com](mailto:daniel.indias@gmail.com) for discussions or inquiries.
+- 📧 Contact me at [daniel.indias@innerflect.com](mailto:daniel.indias@innerflect.com) for discussions or inquiries.
 - 📄 Check out [my CV!](https://github.com/IndiasFernandes/IndiasFernandes/blob/main/CV%20Daniel%20I%CC%81ndias.pdf)
 
 
@@ -30,13 +30,9 @@
   - [Website Audit Tool](https://github.com/IndiasFernandes/websiteAudit) - A comprehensive tool for website analysis, highlighting UX/UI design, trust signals, and technical aspects, reflecting my backend development skills and ability to generate actionable insights.
 - **Flask**
   - [Bollinger Bands Telegram Screener (Crypto/Trading)](https://github.com/IndiasFernandes/BollingerBandsBinanceScreener) - This tool uses Bollinger Bands to screen cryptocurrencies on Binance and sends alerts via a Telegram bot.
-- **Vue**
-  - [Offline Music Playlist (Vue)](https://github.com/IndiasFernandes/OfflineMusicPlaylist) - A Vue.js-based application that integrates with Spotify, YouTube, and SoundCloud to fetch music for offline playlists.
-.
 
 
 </br><h2> 🤳 Connect with me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/indiasfernandes/) - Find out more about my professional journey. Spoiler: There's coffee involved!
-- [Fiverr](https://www.fiverr.com/indias) - Need a hand with a project? Check out my gigs – they're a steal!
-- [Upwork](https://www.upwork.com/freelancers/danielf26) - Let’s collaborate on Upwork. It’s where the magic happens!
+- [Upwork]([https://www.upwork.com/freelancers/danielf26](https://www.upwork.com/freelancers/danielindiasfernandes) - Let’s collaborate on Upwork. It’s where the magic happens!
