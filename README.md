@@ -34,5 +34,5 @@
 
 </br><h2> 🤳 Connect with me:</h2>
 
-- [LinkedIn](https://www.linkedin.com/in/indiasfernandes/) - Find out more about my professional journey. Spoiler: There's coffee involved!
-- [Upwork]([https://www.upwork.com/freelancers/danielf26](https://www.upwork.com/freelancers/danielindiasfernandes) - Let’s collaborate on Upwork. It’s where the magic happens!
+- [LinkedIn](https://www.linkedin.com/in/indiasfernandes) - Find out more about my professional journey. Spoiler: There's coffee involved!
+- [Upwork](https://www.upwork.com/freelancers/danielf26) - Let’s collaborate on Upwork. It’s where the magic happens!
