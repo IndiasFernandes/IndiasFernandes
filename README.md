@@ -38,7 +38,10 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square"/>
 <img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram%20Bot-229ED9?logo=telegram&logoColor=white&style=flat-square"/>
-<img alt="Cursor" src="https://img.shields.io/badge/Cursor-111?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjkiIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yIi8+PHBhdGggZD0iTTEyIDFsNyAxMS03LTExbS0zIDhsMy0zIDMgMy0zIDMiIGZpbGw9IndoaXRlIi8+PC9zdmc+" />
+<!-- Replace the old Cursor badge with this -->
+<img alt="Cursor"
+     src="https://img.shields.io/static/v1?label=Cursor&message=&color=111&style=flat-square" />
+
 
 </div>
 
