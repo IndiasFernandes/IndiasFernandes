@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README — Índias (Daniel) Fernandes
+  GitHub Profile README — Índias Fernandes
   Tone: calm, confident, minimal.
 -->
 
