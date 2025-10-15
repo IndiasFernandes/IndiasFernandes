@@ -38,10 +38,6 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square"/>
 <img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram%20Bot-229ED9?logo=telegram&logoColor=white&style=flat-square"/>
-<a href="https://cursor.sh" style="display:inline-block;
-  background:#111;border-radius:3px;padding:3px 6px;line-height:0;vertical-align:middle;">
-  <img alt="Cursor" height="14" src="assets/cursor.svg">
-</a>
 
 
 </div>
